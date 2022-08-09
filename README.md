@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Gopi-Kumar/Gopi-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Gopi Kumar Kaushik!</h1>
+  💻 I am a self taught Full Stack Developer and a Machine Learning Developer<br/>
+  📚 I am currently pursuing in BCA at IGNOU, Delhi.<br/>
+  📝 I have a strong interest in Cyber Security and Artificial Intelligence<br/>
+  🔭 Working on Deep Learning & Machine Learning<br/>
+  🌱 Learning about Computer Vision and Machine Learning stuff<br/>
+  🌟 Main languages: Python, JavaScript, C++<br/>
+  🚩 Interested in Full Stack Machine Learning Application development<br/>
+  💖 In a complicated relationship with Neural Networks<br/>
+ <h2>Fore More Visit: <a href="https://gkkaushik.desync.in">gkkaushik.desync.in</a></h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
